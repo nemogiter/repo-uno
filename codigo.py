@@ -1,4 +1,4 @@
-nombre = "Nehemias"
+nombre = "Horacio"
 apellido = "Oyarzo"
 edad = 24
 
