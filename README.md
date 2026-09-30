@@ -1,4 +1,4 @@
-# primer-1
+# repositorio-uno-pruebas
 Creando mi primer repo en github
 
 ## descripcion
