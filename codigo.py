@@ -1,4 +1,4 @@
-nombre = "Horacio"
+nombre = "Nazareno"
 apellido = "Oyarzo"
 edad = 24
 
